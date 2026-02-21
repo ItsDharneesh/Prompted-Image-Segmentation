@@ -151,7 +151,7 @@ https://drive.google.com/drive/folders/1_5igPYyJcyaHVtK6BSqeseuEJdWyZMH4?usp=sha
 
 - Large files (datasets, trained models, predictions) are excluded from this repository.
 - Refer to the Google Drive link for full models and outputs.
-- Full project assignment repoert is available in the included PDF "Report.pdf".
+- Full project assignment report is available in the included PDF "Report.pdf".
 
 ---
 
