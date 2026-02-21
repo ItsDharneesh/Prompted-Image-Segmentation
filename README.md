@@ -1,7 +1,3 @@
-<details>
-<summary><strong>📄 README.md (Click to expand and copy)</strong></summary>
-
-```markdown
 # Prompted Image Segmentation
 
 ## 🎯 Goal
@@ -109,10 +105,7 @@ https://drive.google.com/drive/folders/1_5igPYyJcyaHVtK6BSqeseuEJdWyZMH4?usp=sha
 ---
 
 ## 🗂 Project Structure
-
-```
-
-.
+```text
 ├── HRNet.py
 ├── segformer.py
 ├── segformer_tvloss.py
@@ -131,8 +124,8 @@ https://drive.google.com/drive/folders/1_5igPYyJcyaHVtK6BSqeseuEJdWyZMH4?usp=sha
 │
 ├── predictions/
 └── Prompted_Segmentation_for_Drywall_OA-1.pdf
-
 ```
+
 
 ---
 
@@ -161,6 +154,4 @@ https://drive.google.com/drive/folders/1_5igPYyJcyaHVtK6BSqeseuEJdWyZMH4?usp=sha
 - Full project explanation is available in the included PDF report.
 
 ---
-```
 
-</details>
